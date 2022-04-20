@@ -16,7 +16,8 @@ The following functionality is available:
 4. Computation of the Hellinger distance
 #
 
-my_pdf_tensor_ex1.m contains Example 6.1
+For example
+my_pdf_tensor_ex1.m was used for Example 6.1 and to generate data from Table 5.
 
 
 Plese write me an email if you have any questions litvinenko@uq.rwth-aachen.de
