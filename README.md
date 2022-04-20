@@ -15,4 +15,8 @@ The following functionality is available:
 3. Computation of the KL distance
 4. Computation of the Hellinger distance
 #
+
+my_pdf_tensor_ex1.m contains Example 6.1
+
+
 Plese write me an email if you have any questions litvinenko@uq.rwth-aachen.de
