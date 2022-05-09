@@ -19,7 +19,9 @@ The following functionality is available:
 #
 
 For example:
-my_pdf_tensor_ex1.m was used for Example 6.1 and to generate data from Table 5.
+
+my_pdf_tensor_ex1.m was used for Example 6.1 and to generate data from Table 5, i.e.\\
+for the computation of $D_{H}(\alpha_1,\alpha_2)$ between two $\alpha$-stable distributions ($\alpha=1.5$ and $\alpha=0.9$) for different AMEn tolerances. 
 
 my_H2dist_tensor.m was used to compute $D_{H}(\alpha_1,\alpha_2)$ between two $\alpha$ -stable distributions for different dimensions $d$ and resolutions $n$.
 
