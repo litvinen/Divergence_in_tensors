@@ -27,5 +27,9 @@ my_H2dist_tensor.m was used to compute $D_{H}(\alpha_1,\alpha_2)$ between two \a
 
 
 my_KLD_tensor.m was used for computing $D_KL(\alpha_1,\alpha_2)$ between two \alpha-stable distributions for various \alpha with fixed d=8 and n=64.
- 
+#
+Other useful files:
+#
+KLD_simplified.m computes KLD between two \alpha stable distributions. Different ways are tested and compared with the analyticc solution.
+#
 Plese write me an email if you have any questions litvinenko@uq.rwth-aachen.de
